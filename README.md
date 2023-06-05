@@ -8,3 +8,4 @@ Integrantes:
 
  
 - [Figma](https://www.figma.com/file/rFjr5ZyTkEiddQ1mGO6P2M/Untitled?type=design&node-id=0%3A1&t=PajLs16KPGKxabHy-1 )
+- [Video](https://www.youtube.com/watch?v=WD_5Vb44WDY)
