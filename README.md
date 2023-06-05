@@ -1,6 +1,9 @@
 # Grupo-14-ASI
 Integrantes:
-Gino Locatelli | g.locatelli@alumno.um.edu.ar
-Santiago Escudero | sb.escudero@alumno.um.edu.ar	
-Matias Mansilla | m.mansilla@alumno.um.edu.ar	
-Ignacio Milutin | i.milutin@alumno.um.edu.ar	
+
+Gino Locatelli
+Santiago Escudero
+Matias Mansilla
+Ignacio Milutin
+
+https://www.figma.com/file/rFjr5ZyTkEiddQ1mGO6P2M/Untitled?type=design&node-id=0%3A1&t=PajLs16KPGKxabHy-1 
